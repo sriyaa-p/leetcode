@@ -29,3 +29,32 @@ Note that buying on day 2 and selling on day 1 is not allowed because you must b
 	<li><code>1 &lt;= prices.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>0 &lt;= prices[i] &lt;= 10<sup>4</sup></code></li>
 </ul>
+
+<p> Brute Force Solution </p>
+<pre>
+    def maxProfit(self, prices: List[int]) -> int:
+        lengthprices = len(prices)
+
+        buyprice = prices[0]
+        buyday = 0
+
+        # Find the lowest price and its day
+        for i in range(lengthprices):
+            if prices[i] < buyprice:
+                buyprice = prices[i]
+                buyday = i
+
+        # No day available to sell
+        if buyday == lengthprices - 1:
+            return 0
+
+        # Find maximum price after buying day
+        sellprice = prices[buyday + 1]
+
+        for i in range(buyday + 1, lengthprices):
+            if prices[i] > sellprice:
+                sellprice = prices[i]
+
+        return sellprice - buyprice
+		Time Complexity = 0(2N)
+</pre>
