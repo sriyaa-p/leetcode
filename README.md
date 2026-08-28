@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sriyaa-p/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/sriyaa-p/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/sriyaa-p/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sriyaa-p/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/sriyaa-p/leetcode/tree/master/0242-valid-anagram) |
@@ -13,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sriyaa-p/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sriyaa-p/leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sriyaa-p/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/sriyaa-p/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sriyaa-p/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sriyaa-p/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -26,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sriyaa-p/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/sriyaa-p/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/sriyaa-p/leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/sriyaa-p/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sriyaa-p/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
