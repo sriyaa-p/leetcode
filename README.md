@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sriyaa-p/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sriyaa-p/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sriyaa-p/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0905-sort-array-by-parity](https://github.com/sriyaa-p/leetcode/tree/master/0905-sort-array-by-parity) |
 | [2860-happy-students](https://github.com/sriyaa-p/leetcode/tree/master/2860-happy-students) |
 ## Array
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sriyaa-p/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/sriyaa-p/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sriyaa-p/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0905-sort-array-by-parity](https://github.com/sriyaa-p/leetcode/tree/master/0905-sort-array-by-parity) |
 | [2860-happy-students](https://github.com/sriyaa-p/leetcode/tree/master/2860-happy-students) |
 ## Divide and Conquer
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sriyaa-p/leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sriyaa-p/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sriyaa-p/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0905-sort-array-by-parity](https://github.com/sriyaa-p/leetcode/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
