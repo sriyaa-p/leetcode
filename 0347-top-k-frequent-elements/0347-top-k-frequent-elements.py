@@ -10,6 +10,7 @@ class Solution:
         return sorted_nums[:k]
      
         '''
+        # More Python Heavy and takes more time for interpretation hence runtime 10ms
         hashmap={}
         for num in nums:
             hashmap[num]=hashmap.get(num,0)+1
