@@ -15,9 +15,10 @@ class Solution:
                 elif threeSum<0:
                     left+=1
                 else:
-                    #vimp
+                    #vimp - to avoid duplicate triplets
                     result.append([num,nums[left],nums[right]])
                     left+=1
-                    while nums[left]==nums[left-1] and left<right:
+                    # If the new left value is the same as the previous left value, keep moving left forward.
+                    while nums[left]==nums[left-1] and left<right: 
                         left+=1
         return result
