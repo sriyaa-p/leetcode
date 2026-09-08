@@ -1,13 +1,12 @@
 class Solution:
     def sortEvenOdd(self, nums: List[int]) -> List[int]:
-        #Using Python inbuilt logic and the same array
-        '''
+        #Using Python inbuilt logic 
         nums[::2]=sorted(nums[::2])
         nums[1::2]=sorted(nums[1::2],reverse=True)
         return nums
-        '''
 
-        #Using two arrays Even and Odd takes up more space. Brute force approach
+        '''
+        #Using two arrays Even and Odd both take same time but Code snippet 1 is more readable
         even=[]
         odd=[]
         for i in range(len(nums)):
@@ -29,3 +28,4 @@ class Solution:
                 nums[i]=odd[j]
                 j+=1
         return nums
+        '''
