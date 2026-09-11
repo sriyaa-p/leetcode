@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/sriyaa-p/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/sriyaa-p/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/sriyaa-p/leetcode/tree/master/0584-find-customer-referee) |
+| [0596-classes-with-at-least-5-students](https://github.com/sriyaa-p/leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/sriyaa-p/leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 ## Ternary Search
 |  |
