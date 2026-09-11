@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sriyaa-p/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sriyaa-p/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/sriyaa-p/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0918-maximum-sum-circular-subarray](https://github.com/sriyaa-p/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/sriyaa-p/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2860-happy-students](https://github.com/sriyaa-p/leetcode/tree/master/2860-happy-students) |
 ## Divide and Conquer
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sriyaa-p/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sriyaa-p/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sriyaa-p/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0918-maximum-sum-circular-subarray](https://github.com/sriyaa-p/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sriyaa-p/leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/sriyaa-p/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/sriyaa-p/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -149,4 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sriyaa-p/leetcode/tree/master/0020-valid-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/sriyaa-p/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/sriyaa-p/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
