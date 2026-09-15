@@ -5,7 +5,6 @@ class ListNode:
         self.next = next
 class Solution:
     def reverseList(self, head: ListNode | None) -> ListNode | None:
-        '''
         # implementing using Iterative method - best method
         prev,curr=None,head
         while curr:
@@ -14,8 +13,9 @@ class Solution:
             prev=curr
             curr=nxt
         return prev
-        '''
+
         #implementing recursive
+        '''
         if not head:
             return None #if it is not head then return NULL
         newHead=head
@@ -24,3 +24,4 @@ class Solution:
             head.next.next=head
         head.next=None
         return newHead
+        '''
