@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/sriyaa-p/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sriyaa-p/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/sriyaa-p/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2241-design-an-atm-machine](https://github.com/sriyaa-p/leetcode/tree/master/2241-design-an-atm-machine) |
 | [2860-happy-students](https://github.com/sriyaa-p/leetcode/tree/master/2860-happy-students) |
 ## Divide and Conquer
 |  |
@@ -178,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sriyaa-p/leetcode/tree/master/0206-reverse-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [2241-design-an-atm-machine](https://github.com/sriyaa-p/leetcode/tree/master/2241-design-an-atm-machine) |
+## Design
+|  |
+| ------- |
+| [2241-design-an-atm-machine](https://github.com/sriyaa-p/leetcode/tree/master/2241-design-an-atm-machine) |
 <!---LeetCode Topics End-->
