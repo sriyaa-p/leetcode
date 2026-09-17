@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/sriyaa-p/leetcode/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/sriyaa-p/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sriyaa-p/leetcode/tree/master/0342-power-of-four) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sriyaa-p/leetcode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/sriyaa-p/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sriyaa-p/leetcode/tree/master/0342-power-of-four) |
 ## Greedy
 |  |
 | ------- |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2241-design-an-atm-machine](https://github.com/sriyaa-p/leetcode/tree/master/2241-design-an-atm-machine) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/sriyaa-p/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
