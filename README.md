@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sriyaa-p/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sriyaa-p/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/sriyaa-p/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sriyaa-p/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sriyaa-p/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sriyaa-p/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sriyaa-p/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sriyaa-p/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sriyaa-p/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sriyaa-p/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sriyaa-p/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sriyaa-p/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sriyaa-p/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sriyaa-p/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sriyaa-p/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sriyaa-p/leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/sriyaa-p/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/sriyaa-p/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sriyaa-p/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/sriyaa-p/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sriyaa-p/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sriyaa-p/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sriyaa-p/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sriyaa-p/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/sriyaa-p/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sriyaa-p/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sriyaa-p/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sriyaa-p/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -113,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sriyaa-p/leetcode/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/sriyaa-p/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/sriyaa-p/leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/sriyaa-p/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sriyaa-p/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sriyaa-p/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/sriyaa-p/leetcode/tree/master/0371-sum-of-two-integers) |
@@ -208,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sriyaa-p/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/sriyaa-p/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/sriyaa-p/leetcode/tree/master/0371-sum-of-two-integers) |
 ## Monotonic Stack
