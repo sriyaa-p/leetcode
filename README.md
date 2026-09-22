@@ -196,10 +196,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sriyaa-p/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sriyaa-p/leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sriyaa-p/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sriyaa-p/leetcode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/sriyaa-p/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sriyaa-p/leetcode/tree/master/0342-power-of-four) |
