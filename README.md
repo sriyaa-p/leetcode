@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sriyaa-p/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sriyaa-p/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/sriyaa-p/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0910-smallest-range-ii](https://github.com/sriyaa-p/leetcode/tree/master/0910-smallest-range-ii) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/sriyaa-p/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2860-happy-students](https://github.com/sriyaa-p/leetcode/tree/master/2860-happy-students) |
 ## Array
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/sriyaa-p/leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sriyaa-p/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/sriyaa-p/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0910-smallest-range-ii](https://github.com/sriyaa-p/leetcode/tree/master/0910-smallest-range-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sriyaa-p/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/sriyaa-p/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/sriyaa-p/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/sriyaa-p/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sriyaa-p/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/sriyaa-p/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0910-smallest-range-ii](https://github.com/sriyaa-p/leetcode/tree/master/0910-smallest-range-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/sriyaa-p/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0910-smallest-range-ii](https://github.com/sriyaa-p/leetcode/tree/master/0910-smallest-range-ii) |
 | [2241-design-an-atm-machine](https://github.com/sriyaa-p/leetcode/tree/master/2241-design-an-atm-machine) |
 ## Design
 |  |
