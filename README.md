@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/sriyaa-p/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/sriyaa-p/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sriyaa-p/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/sriyaa-p/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/sriyaa-p/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2241-design-an-atm-machine](https://github.com/sriyaa-p/leetcode/tree/master/2241-design-an-atm-machine) |
 | [2860-happy-students](https://github.com/sriyaa-p/leetcode/tree/master/2860-happy-students) |
