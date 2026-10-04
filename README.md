@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/sriyaa-p/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/sriyaa-p/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sriyaa-p/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sriyaa-p/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/sriyaa-p/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0910-smallest-range-ii](https://github.com/sriyaa-p/leetcode/tree/master/0910-smallest-range-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sriyaa-p/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sriyaa-p/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/sriyaa-p/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/sriyaa-p/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2241-design-an-atm-machine](https://github.com/sriyaa-p/leetcode/tree/master/2241-design-an-atm-machine) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/sriyaa-p/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/sriyaa-p/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sriyaa-p/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sriyaa-p/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Database
 |  |
 | ------- |
