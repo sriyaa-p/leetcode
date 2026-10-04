@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sriyaa-p/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sriyaa-p/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sriyaa-p/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0523-continuous-subarray-sum](https://github.com/sriyaa-p/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sriyaa-p/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sriyaa-p/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sriyaa-p/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sriyaa-p/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0523-continuous-subarray-sum](https://github.com/sriyaa-p/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sriyaa-p/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/sriyaa-p/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sriyaa-p/leetcode/tree/master/0739-daily-temperatures) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/sriyaa-p/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sriyaa-p/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/sriyaa-p/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0523-continuous-subarray-sum](https://github.com/sriyaa-p/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0910-smallest-range-ii](https://github.com/sriyaa-p/leetcode/tree/master/0910-smallest-range-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sriyaa-p/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/sriyaa-p/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/sriyaa-p/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sriyaa-p/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Database
 |  |
@@ -248,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/sriyaa-p/leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/sriyaa-p/leetcode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
