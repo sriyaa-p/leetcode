@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sriyaa-p/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/sriyaa-p/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sriyaa-p/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sriyaa-p/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sriyaa-p/leetcode/tree/master/0027-remove-element) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sriyaa-p/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sriyaa-p/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sriyaa-p/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sriyaa-p/leetcode/tree/master/0027-remove-element) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sriyaa-p/leetcode/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/sriyaa-p/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/sriyaa-p/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0910-smallest-range-ii](https://github.com/sriyaa-p/leetcode/tree/master/0910-smallest-range-ii) |
