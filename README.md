@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sriyaa-p/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sriyaa-p/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sriyaa-p/leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/sriyaa-p/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/sriyaa-p/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sriyaa-p/leetcode/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sriyaa-p/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sriyaa-p/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sriyaa-p/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sriyaa-p/leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/sriyaa-p/leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sriyaa-p/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sriyaa-p/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sriyaa-p/leetcode/tree/master/0125-valid-palindrome) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sriyaa-p/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sriyaa-p/leetcode/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/sriyaa-p/leetcode/tree/master/0091-decode-ways) |
 | [0152-maximum-product-subarray](https://github.com/sriyaa-p/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sriyaa-p/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sriyaa-p/leetcode/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/sriyaa-p/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/sriyaa-p/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sriyaa-p/leetcode/tree/master/0739-daily-temperatures) |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sriyaa-p/leetcode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/sriyaa-p/leetcode/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
